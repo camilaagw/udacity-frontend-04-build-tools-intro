@@ -1,0 +1,28 @@
+form {
+    border: 1px solid #545454;
+    border-radius: 3px;
+    padding: 40px;
+}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+}
+
+#results {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.result-title {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+
+#results div {
+    margin-bottom: 10px;
+}
